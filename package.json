@@ -1,0 +1,13 @@
+{
+  "name": "vue-keyword-bubble-cloud",
+  "version": "1.0.0",
+  "description": "a vue component",
+  "main": "index.js",
+  "repository": "git@github.com:ezfe-web/vue-keyword-bubble-cloud.git",
+  "author": "大风",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "vue": "^2.6.1"
+  }
+}
